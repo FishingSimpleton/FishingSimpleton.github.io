@@ -1,14 +1,12 @@
-<<<<<<< HEAD
 ---
 layout: blog
 book: true
 title:  "leetcode c++纯虚函数 by DylanChou 刷leetcode心得"
-tags:
-
-- C++基础
-- 纯虚函数
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
 date:   2021-8-11 14:12:54
+tags:
+- C++基础
+- 纯虚函数
 ---
 
 

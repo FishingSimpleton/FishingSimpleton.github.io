@@ -1,15 +1,13 @@
-<<<<<<< HEAD
 ---
 layout: blog
 book: true
 title:  "leetcode[746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)(dp)by DylanChou 刷leetcode心得"
-tags:
-
-- LeetCode
-- 动态规划
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
 date:   2021-7-22 23:43:54
 category: LeetCode
+tags:
+- LeetCode
+- 动态规划
 ---
 
 

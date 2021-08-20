@@ -1,15 +1,13 @@
-<<<<<<< HEAD
 ---
 layout: blog
 book: true
-title:  "leetcode[[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)]by DylanChou 刷leetcode心得"
-tags:
-
-- LeetCode
-- 链表
+title:  "leetcode[[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)]by DylanChou 刷leetcode心得"
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
 date:   2021-8-2 16:04:21
 category: LeetCode
+tags:
+- LeetCode
+- 链表
 ---
 
 
