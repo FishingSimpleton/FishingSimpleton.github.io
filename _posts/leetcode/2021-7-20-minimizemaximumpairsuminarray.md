@@ -1,17 +1,19 @@
 <<<<<<< HEAD
 ---
-
 layout: blog
 book: true
 title:  "leetcode[数组中最大数对和的最小值](双指针)by DylanChou 刷leetcode心得"
 tags:
 
 - LeetCode
+
 - 双指针
+
 - 排序
-  background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
-  date:   2021-7-20 10:22:10
-  category: LeetCode
+---
+background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
+date:   2021-7-20 10:22:10
+category: LeetCode
 
 
 
