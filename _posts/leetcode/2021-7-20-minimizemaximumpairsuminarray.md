@@ -11,10 +11,6 @@ tags:
 - 排序
 ---
 
-
-
-
-
 #### [1877. 数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/)
 
 难度中等28收藏分享切换为英文接收动态反馈
